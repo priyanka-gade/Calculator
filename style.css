@@ -1,0 +1,35 @@
+table {
+    border: 1px;
+    margin: 40px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    background-color: rgb(172, 195, 200);
+}
+
+button {
+    width: 55px;
+    height: 35px;
+    border-radius: 4px;
+    border: 0px;
+    background-color: whitesmoke;
+    font-size: larger;
+    margin: 5px;
+}
+button:hover{
+    background-color: rgb(185, 209, 209);
+    border: 1px solid rgb(63, 63, 63);
+}
+
+input[type="text"] {
+    width: 260px;
+    height: 70px;
+    border-radius: 4px;
+    border: 0px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    text-align: center;
+}
